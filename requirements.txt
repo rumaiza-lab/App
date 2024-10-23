@@ -4,3 +4,4 @@ torch
 gtts
 bleak
 numpy
+opencv-python-headless
