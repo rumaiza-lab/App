@@ -10,6 +10,8 @@ from random import choice
 import streamlit as st
 import os
 os.system('pip install ultralytics==8.3.13')
+os.system('apt-get update && apt-get install -y libgl1-mesa-glx')
+
 
 # Inject HTML and JavaScript into Streamlit app
 st.markdown("""
