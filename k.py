@@ -8,6 +8,8 @@ import gtts
 import os
 from random import choice
 import streamlit as st
+import os
+os.system('pip install ultralytics==8.3.13')
 
 # Inject HTML and JavaScript into Streamlit app
 st.markdown("""
