@@ -6,3 +6,7 @@ pillow==10.4.0
 requests==2.32.3
 torch==2.4.1
 torchvision==0.19.1
+bleak==0.22.2
+gtts==2.5.3
+speechrecognition==3.10.4
+
